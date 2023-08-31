@@ -1,0 +1,3 @@
+com\example\demo\com\demo\security\custom\CustomAuthentication.class
+com\example\demo\com\demo\security\BasicAuthConfig.class
+com\example\demo\SpringSecurityApplication.class
